@@ -198,7 +198,7 @@ This is a ranking by some one who doesn't know everything about every item on th
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
 
 ### Trackers
-- [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
+- [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
 
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 
@@ -207,7 +207,7 @@ This is a ranking by some one who doesn't know everything about every item on th
 - [Bravo List](http://www.bvlist.com/) Tracker directory
 
 #### Private Trackers
-- [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
+- [AlphaRatio ](https://alpharatio.cc) (AR) A good starter tracker with lots of freeleech content.
 
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
 
@@ -270,7 +270,7 @@ This is a ranking by some one who doesn't know everything about every item on th
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
 #### Semi-Private Trackers
-- [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
+- [ruTracker](https://rutracker.org/forum/index.php) RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 
 ⛔️ - [Zamunda.net](http://zamunda.net)   A Bulgarian tracker with English and Russian translations available. ⛔️
 
@@ -792,7 +792,7 @@ premium services
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
 
 ### Streaming Sites
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) 🌟 Huge list by /u/nbatman
 
 #### HD Streaming
 
