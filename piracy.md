@@ -1,4 +1,5 @@
 
+
 # Piracy 
 
 >Please make sure you use an Adblocker such as [[uBlock Origin](https://github.com/gorhill/uBlock) to connect to the websites listed here, or you will have a rough time.
@@ -792,7 +793,7 @@ premium services
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
 
 ### Streaming Sites
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) 🌟 Huge list by /u/nbatman
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) Huge list by /u/nbatman
 
 #### HD Streaming
 
@@ -1701,7 +1702,7 @@ premium services
 
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
 
-- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` :star2: XDCC file-sharing network, join #mg-chat to continue downloading
+- _Moviegods_  `irc://irc.abjects.net/MOVIEGODS`  XDCC file-sharing network, join #mg-chat to continue downloading
 
 - _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
 
