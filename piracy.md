@@ -1663,124 +1663,177 @@ premium services
 
 ### Acestreams
 - [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
+
 - [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
+
 - [aceproxy](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
-- [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
+
+- [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy.
 
 ## IRC
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) XDCC Downloading For Beginners: Do It Like A Pro
+
 - [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a hosting service.
+
 - [ZNC](https://github.com/znc/znc) An advanced IRC bouncer
 
 ### IRC Clients
-- [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
+- [weechat](https://github.com/weechat/weechat) The extensible chat client.
+
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
+
 - [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+
 - [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
+
 - [mIRC](https://www.mirc.com/) IRC client for Windows
+
 - [Shout](https://github.com/erming/shout) The self-hosted web IRC client
+
 - [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
+
 - [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
 
 ### IRC Networks
 - [irc.p2p-network.net](https://p2p-network.net/) P2P file-sharing network
+
 - [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) List of all channels on the p2p-network.net IRC network
+
 - [Orpheus](https://orpheus.network/) Formerly known as Apollo
+
 - _Moviegods_  `irc://irc.abjects.net/MOVIEGODS` :star2: XDCC file-sharing network, join #mg-chat to continue downloading
+
 - _The Source_ `irc://irc.scenep2p.net/THE.SOURCE` Another XDCC source
+
 - _Beast-XDCC_ `irc://irc.abjects.net/BEAST-XDCC` One more XDCC source
-- _irc.undernet.org/bookz_ `irc://irc.undernet.org/bookz` For downloading ebooks (use `@search <book name>` for a list of available ebooks)
-- _irc.irchighway.net/ebooks_ `irc://irc.irchighway.net/ebooks` A nice, friendly IRC channel for trading ebooks
+
+
 
 ### IRC Search Engines
-- [xWeasel](http://xweasel.org) xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
-- [ixIRC](https://ixirc.com/) ixIRC lets you search through 17 IRC networks, 32 channels, and over 189915 user-supplied XDCC packs.
+
 - [SunXDCC](http://sunxdcc.com/) Another XDCC file search engine
+
 - [xdcc.eu](http://www.xdcc.eu/) XDCC search engine indexing packets from a large number of networks
 
 ## DC++
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
+
 - [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
-- [AirDC++](https://www.airdcpp.net/) :star2: Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
-- [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
+
+- [AirDC++](https://www.airdcpp.net/) Windows GUI and Linux Web DC++ client in active development, with ADC, IPv6 and DHT support.
+
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
+
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
-- [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+- 
 - [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
+
 - [/r/fullmovierequest](https://www.reddit.com/r/fullmovierequest/)
+
 - [/r/Fullmoviesonvimeo](https://www.reddit.com/r/Fullmoviesonvimeo/)
+
 - [/r/fulltvshowsonyoutube](https://www.reddit.com/r/fulltvshowsonyoutube/)
-- [/r/fulltvshowsonvimeo](https://www.reddit.com/r/fulltvshowsonvimeo/)
+
 - [/r/fullcartoonsonyoutube](https://www.reddit.com/r/fullcartoonsonyoutube/)
+
 - [/r/FullLengthFilms](https://www.reddit.com/r/FullLengthFilms/)
+
 - [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
+
 - [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
+
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Piracy Blogs and News
-- [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [TorrentFreak](https://torrentfreak.com) TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+
 - [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
 
 ## Content Discovery
-- [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
+- [Trakt.tv](https://trakt.tv/) a platform that does many things, but primarily keeps track of TV shows and movies you watch.
+
 - [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
+
 - [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
+
 - [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
+
 - [popular-movies](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
+
 - [Letterboxd](https://letterboxd.com/) Your life in film
+
 - [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
+
 - [What is my movie?](https://www.whatismymovie.com/) AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres, etc. We find movies for you to watch."
+
 - [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit) Complete list of all available 2160p remuxes
+
 - [Flox](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
+
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
+
 - [JustWatch](https://www.justwatch.com/) On JustWatch you can find out where to watch your favorite movies & TV series
+
 - [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+
 - [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
+
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
+
 - [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
 
 ### PreDB Sites
 - [Urban Dictionary: predb](https://www.urbandictionary.com/define.php?term=predb) Urban Dictionary definition
+
 - [PreDB.org](https://predb.org/)
+
 - [PreDB.me](https://predb.me/)
+
 - [PREdb](https://predb.ovh/)
+
 - [WarezBot](https://github.com/enzobes/WarezBot) Discord bot for scene releases.
-- [NSW Releases](http://nswdb.com/) Nintendo Switch scene releases.
-- [3DS Releases](http://3dsdb.com/) Nintedo 3DS scene releases.
-- [NSWDBot](https://github.com/HunterKing/NSWDBot) A discord bot for scraping NSWDB.com for "Scene" releases.
 
 ## Dashboards and Homepages
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
+
 - [Heimdall](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
-- [Organizr](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
-- [weboas.is](http://weboas.is/) Homepage for pirates
-- [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) Anonmasky is a beautiful start page for geeks out there. Clone of weboas.is.
+
+- [Organizr](https://github.com/causefx/Organizr) HTPC/Homelab Services Organizer - Written in PHP
+
 - [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
+
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
+
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
+
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
 
 
 ## File Sharing Tools
 - [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
+
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
-- [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
-- [dmca.gripe](https://dmca.gripe/) A DMCA-resistant, permanent file hosting service.
+
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
+
 - [sync](https://github.com/calzoneman/sync/) Node.JS Server and JavaScript/HTML Client for synchronizing online media
+
 - [watch2gether](https://www.watch2gether.com/) Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
-- [SyncLounge](https://synclounge.tv/) :star2: A third-party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
+
+- [SyncLounge](https://synclounge.tv/) A third-party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
+
 - [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related) Netflix Party is a Chrome extension for watching Netflix remotely with other users.
+
 - [CyTube](https://cytu.be/) Channel-based shared streaming platform for synchronized viewing of YouTube and Google Drive videos
-- [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
-- [&chill](https://andchill.tv/) Watch videos with people.
+
 
 ## Telegram Piracy
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
@@ -1790,56 +1843,66 @@ premium services
 - [@vkmusic_bot](https://telegram.me/vkmusic_bot) Find and download pretty much any song
 - [@RickyChristanto](https://t.me/RickyChristanto) Channel for movie releases, usually from YTS in MKV format.
 - [iMediaShare channel](https://t.me/iMediaShare) Movies, TV shows, apps, and more
+
 - [@movies_inc](https://t.me/movies_inc) Another Telegram channel for downloading movies
+
 - [@Qualitymovies](https://t.me/Qualitymovies) Lots of 720p Blu-Ray movie releases
+
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) Another music downloader bot
+
 - [@DeezerMusicBot](https://t.me/DeezerMusicBot) Music bot which downloads tracks from Deezer
+
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
+
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
-- [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
 ## Miscellaneous
-- [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 - [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
-- [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
+
 - [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
-- [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
+
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
+
 - [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
-- [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
+
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
-- [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
-- [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+
 - [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+
 - [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
+
 - [/v/piracy](https://voat.co/v/piracy) Voat forum for Piracy - another potential fallback option for /r/Piracy.
+
 - [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
+
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
+
 - [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+
 - [NFForce](http://nfforce.temari.fr/) Another NFO viewer.
-- [TheTrove](https://thetrove.net/) The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
+
 - [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
+
 - [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
+
 - [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+
 - [castnow](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
-- [Grabber](https://grabber.co.in/) Download stock images from Shutterstock
+
 - [The Pirate Society](https://thepiratesociety.org/forums/) A mysterious members-only forum for pirates.
+
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
+
 - [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
+
 - [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
+
 - [MacGuffin](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
+
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
+
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
+
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
-- [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
-
-## Contribute
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Igglybuff has waived all copyright and
-related or neighboring rights to this work.
