@@ -1,4 +1,4 @@
-# The Piracy, Privacy, Tor and Security and more list 
+# The Piracy, Privacy, Tor and and more list 
 
 > Why does this project exist? Simply because I would like to have all the information in one place rather than jumping around from list to list.
 > 
