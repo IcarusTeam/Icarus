@@ -9,8 +9,6 @@
  - [Privacy](privacy.md)
 
  - [Tor](tor.md)
-
- - [Security](security.md)
  
  - [Others](others.md)
 
