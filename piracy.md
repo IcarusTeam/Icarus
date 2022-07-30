@@ -2,7 +2,7 @@
 
 # Piracy 
 
->Please make sure you use an Adblocker such as [[uBlock Origin](https://github.com/gorhill/uBlock) to connect to the websites listed here, or you will have a rough time.
+>Please make sure you use an Adblocker such as [uBlock Origin](https://github.com/gorhill/uBlock) to connect to the websites listed here, or you will have a rough time.
 
 ## Emoji
 You will notice that some items in this list have a 🌟.  
