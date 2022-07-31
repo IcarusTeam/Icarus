@@ -13,8 +13,8 @@
  - [Others](others.md)
 
 
-###
-#### This list is avaible on Tor and on Sourceforge too.
+
+### This list is avaible on Tor and on Sourceforge too.
 #### Tor: 
 #### Sourceforge:
 #### The pgp key can be found on Tor or Dread
