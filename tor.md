@@ -338,3 +338,148 @@
 * Transport: 🔺 **HTTP**
 * Link: http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion
 * Plain: `http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion`
+
+
+## Avoid these links
+
+- alphabaymarket.org
+
+- asapmarketlinks.com
+
+- cannahome-markets.com
+
+- choosetorlinks.com
+
+- dakr.fail
+
+- darj.fail
+
+- dark0demarketlink.net
+
+- dark0demarketreborn.com
+
+- darkfail.live
+
+- darkfailnews.com
+
+- dark.link
+
+- darkmarketwww.com
+
+- darknet.fail
+
+- darknet.live
+
+- darknetmarkets.com
+
+- darknetmarketslink.com
+
+- darknetmarketwww.com
+
+- darknetone.com
+
+- darknetpages.com
+
+- darknetplace.com
+
+- dark.pe
+
+- darkweblink.co
+
+- dark-web-link.com
+ 
+- darkweblink.com
+
+- darkweblinks.com
+
+- darkweblinks.net
+
+- darkweblinks.wiki
+
+- darkweblive.net
+
+- darkwebmagazine.com
+
+- darkwebofficial.com
+
+- darkweburls.com
+
+- darkworldmarket.com
+
+- darlnetlive.com
+
+- deeponionweb.com
+
+- deepweblinks.live
+
+- deepweblinks.net
+
+- deepwebsiteslinks.com
+
+- dnmlinks.xyz
+
+- dnstats.net
+
+- dork.fail
+
+- empiremarketlink.com
+
+- empiremarket-url.com
+
+- livedarknet.com
+
+- mydarkmarket.com
+
+- onion.live
+
+- onionurl.cc
+
+- onionurl.net
+
+- onionurl.xyz
+
+- thedarkmarketonline.com
+
+- thedarkweblinks.com
+
+- thedeep-weblinks.com
+
+- tor.cab 
+
+- tor-marketplace.com
+
+- tormarkets22.com
+
+- tormarkt.com
+
+- torrez-market-link.com
+
+- torrezmarketlink.com
+
+- torrezmarkets.com
+
+- torrezmarketslink.com
+
+- torrezmarketurl.com
+
+- torscamlist.com
+
+- tortaxi.info  
+
+- versus-marketplace.com
+
+- whitehouse-market.com
+
+- whitehousemarket-link.com
+
+- whitehousemarketlink.com
+
+-  whitehousemarketlink.net
+
+-  white-house-market-url.com
+
+- worldmarket-links.com
+
+- worldmarketlinks.com
+
+- worldmarketurls.com
