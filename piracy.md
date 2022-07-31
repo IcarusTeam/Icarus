@@ -7,9 +7,7 @@
 ## Emoji
 You will notice that some items in this list have a 🌟.  
 Articles with a 🌟 represents the writer's best choice for this particular category. 
-This is a ranking by some one who doesn't know everything about every item on the list. So be sure to check alternative options before considering something as "the best". 
-❓ Service in question.
-⛔️ Service probalty blocked.
+This is a ranking by some one who doesn't know everything about every item on the list. So be sure to check alternative options before considering something as "the best".
 
 
 
