@@ -14,8 +14,7 @@
 
 
 
-### This list is avaible on Tor and on Sourceforge too.
-#### Tor: 
-#### Sourceforge:
+### This list is avaible on Tor too.
+#### Tor: http://cisy2mbvhyjhxb33ksmnfaize5duwy323lerzbieq6qfbtfbc2lmerid.onion
 #### The pgp key can be found on Tor or Dread
 #### Im on Dread: IcarusTeam
