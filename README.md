@@ -14,7 +14,5 @@
 
 
 
-### This list is available on Tor too.
-#### Tor: http://cisy2mbvhyjhxb33ksmnfaize5duwy323lerzbieq6qfbtfbc2lmerid.onion
-#### The pgp key can be found on Tor or Dread
+#### My pgp key can be found on here or on Dread
 #### Im on Dread: IcarusTeam
