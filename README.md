@@ -14,5 +14,5 @@
 
 
 
-#### My pgp key can be found on here or on Dread
+#### My pgp key can be found on [here](https://github.com/IcarusTeam/Icarus/blob/main/pgp.asc) or on Dread
 #### Im on Dread: IcarusTeam
